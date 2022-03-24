@@ -1,0 +1,48 @@
+{
+  "name": "chatr",
+  "version": "2.0.0",
+  "description": "Convert web to Desktop application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder -mwl",
+    "win": "electron-builder --win",
+    "mac": "electron-builder --mac",
+    "linux": "electron-builder  --linux"
+  },
+  "author": "Jason Michel",
+  "license": "viipers",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kmkz-69/Convert-Desktop-application"
+  },
+  "devDependencies": {
+    "electron": "^17.2.0",
+    "electron-builder": "^22.14.13"
+  },
+  "build": {
+    "mac": {
+      "category": "public.app-category.utilities"
+    },
+    "win": {
+      "target": [
+        {
+          "target": "nsis",
+          "arch": [
+            "x64"
+          ]
+        }
+      ]
+    },
+    "linux": {
+      "target": [
+        {
+          "target": "deb",
+          "arch": [
+            "x64"
+          ]
+        }
+      ]
+    }
+  }
+}
