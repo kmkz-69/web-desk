@@ -54,3 +54,11 @@ Next, modify config.js file appName value.
 
 *  To build the Linux platform:
    run ``yarn linux ``
+   
+   ## Support
+   
+   ### Ask a question about App
+   
+   You can ask questions and initiate [discussions](https://github.com/prisma/prisma/discussions/) about Prisma-related topics in the `prisma` repository on GitHub.
+
+👉 [**Ask a question**](https://github.com/prisma/prisma/discussions/new)
