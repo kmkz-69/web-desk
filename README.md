@@ -62,3 +62,6 @@ Next, modify config.js file appName value.
    You can ask questions and initiate [discussions](https://github.com/kmkz-69/web-desktop-app/discussions/) about Prisma-related topics in the `prisma` repository on GitHub.
 
 👉 [**Ask a question**](https://github.com/kmkz-69/web-desktop-app/discussions/new)
+
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/chatr"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="chatr" /></a></p><br><br>

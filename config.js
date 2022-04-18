@@ -1,6 +1,6 @@
 const config = {
     // Main Application URL
-    'Url' : 'https://localhost:3000/home',
+    'Url' : 'https://facebook.com/',
 
     // Application Name
     'appName' : 'Chatr',
