@@ -65,3 +65,6 @@ Next, modify config.js file appName value.
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/chatr"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="chatr" /></a></p><br><br>
+Demo
+<a href="https://www.youtube.com/watch?v=MBNpcxPsnMw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="h4geek" height="30" width="40" /></a>
+
