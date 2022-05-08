@@ -1,9 +1,11 @@
+require('dotenv').config()
+
 const config = {
     // Main Application URL
-    'Url' : 'https://facebook.com/',
+    'Url' : process.env.URL,
 
     // Application Name
-    'appName' : 'Chatr',
+    'appName' : process.env.APP_NAME,
 
     // Application window width and height
     'width' : 1280,
