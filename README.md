@@ -9,10 +9,10 @@ Converts your website to a native desktop application based on the Electron fram
 
 
 ###  Main menu template
-* On your project folder open config.js file. Change Url value.
+* On your project folder open .env file. Change Url value.
 ```
 //Main Application URL
-'Url' : 'https://localhost:3000',
+URL=https://facebook.com/
 ```
 
 ### Change application Name
@@ -20,9 +20,9 @@ Converts your website to a native desktop application based on the Electron fram
 ``
 "name": "New_App_Name",
 ``
-Next, modify config.js file appName value.
+Next, modify .env file appName value.
 ```
-'appName' : 'demo',
+APP_NAME=facebook,
 ```
 
 ### Change application description
