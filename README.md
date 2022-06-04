@@ -59,11 +59,11 @@ APP_NAME=facebook,
    
    ### Ask a question about App
    
-<<<<<<< HEAD
+
    You can ask questions and initiate [discussions](https://github.com/kmkz-69/web-desktop-app/discussions/) about Prisma-related topics in the `prisma` repository on GitHub.
-=======
+
    You can ask questions and initiate [discussions](https://github.com/kmkz-69/web-desktop-app/discussions/) about Prisma-related topics in the `Convert web to desktop` repository on GitHub.
->>>>>>> 0f7f82b3d2e25583dbbda64d14af648b35a948c6
+
 
 👉 [**Ask a question**](https://github.com/kmkz-69/web-desktop-app/discussions/new)
 
